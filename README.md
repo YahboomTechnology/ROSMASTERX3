@@ -18,10 +18,6 @@ ROSMASTER X3 is an educational robot based on the robot operating system with Me
 * 103 detailed video tutorials and open source codes, as well as professional technical support will be provided for free.
 
 # Required Best Buy Links
-[By on Amazon](https://www.amazon.com/dp/B0B1JB8CH1)
-
-[By on aliexpress](https://www.aliexpress.com/item/3256804114185970.html)
-
 [By on Yahboom website](https://category.yahboom.net/products/rosmaster-x3)
 
 # Please Contact Us
