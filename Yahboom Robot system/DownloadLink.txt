@@ -1,7 +1,0 @@
-Jetson NANO system file: https://drive.google.com/drive/folders/17BE8S-QyuoKYd1bxQo244eRPiwgo8e2_?usp=sharing
-
-Jetson NX system file: https://drive.google.com/drive/folders/1YkunVshYUQ8hEpIhZA34uVC4G361qNUN?usp=sharing
-
-Jetson TX2 NX system file: https://drive.google.com/drive/folders/1APQ7at8ZdjED6HVGWNckhBh8oJafQ2oM?usp=sharing
-
-RaspberryPi system file: https://drive.google.com/drive/folders/14eQ_gRzrJGaWGYgaGg1CXtknh9ds3P9t?usp=sharing
