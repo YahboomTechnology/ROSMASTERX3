@@ -1,4 +1,4 @@
-# ROSMASTER X3 ROS Educational Robot with Mecanum Wheel can Lidar avoiding 3D mapping navigation for Jetson NANO/ORIN NANO/ORIN NX/RaspberryPi 5
+# ROSMASTER X3 ROS2 Educational Robot with Mecanum Wheel can Lidar avoiding 3D mapping navigation for Jetson NANO/ORIN NANO/ORIN NX/RaspberryPi 5
 ![](https://github.com/YahboomTechnology/ROSMASTERX3/blob/main/X3.jpg)
 # Introduction
 ROSMASTER X3 is an educational robot based on the robot operating system with Mecanum Wheel, compatible with Jetson NANO/ORIN NANO/ORIN NX and Raspberry Pi 5. It is equipped with lidar, depth camera, voice interaction module and other high-performance hardware modules. Using Python programming, ROSMASTER X3 can realize mapping and navigation, following or avoiding, Autopilot and human body posture detection. It support APP remote control, APP mapping navigation, handle remote control, ROS system PC control and other cross-platform remote control methods. We provide 103 video courses and a large number of codes, which can allow users to learn artificial intelligence programming and ROS systems.
